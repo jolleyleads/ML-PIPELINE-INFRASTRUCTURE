@@ -1,0 +1,19 @@
+Title: About this project
+
+This project demonstrates three things:
+
+A training pipeline that creates a model artifact
+
+A document lookup system that can retrieve relevant text
+
+A simple memory system that saves and reuses safe notes
+
+You can replace these docs later with anything:
+
+your resume
+
+product docs
+
+a fake company handbook
+
+FAQ pages
